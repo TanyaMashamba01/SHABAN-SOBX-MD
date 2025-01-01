@@ -43,7 +43,7 @@
 ---------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MR%20SHABAN♥️&image=https://i.ibb.co/wwkxCP7/Manul-Ofc-X.jpg?v=4&backgroundColor=%23ecf0f1&github=MRSHABAN40&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MR%20SHABAN♥️&image=https://files.catbox.moe/tmtn0f.jpeg"/>
 
 ------------------
 
@@ -112,7 +112,7 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20MD%20V2&description=🪀THE%20
 
 ------------
 
- [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/MRSHABAN40/SHABAN-SOBX-MD)
+ [![Deploy to Heroku](https://img.shields.io/static/v1?label=Deploy%20to&message=Heroku&color=430098&style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/tanyaMashamba01/SHABAN-SOBX-MD)
  
 ------------
 ### <br> ❖👇DEPLOY_GETHUB👇❖
