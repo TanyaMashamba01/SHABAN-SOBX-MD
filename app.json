@@ -16,19 +16,19 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg"
+      "value": "https://files.catbox.moe/tmtn0f.jpeg"
     }, 
     
     "ALIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": true,
-      "value": "ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ɪᴍ ᴀʟɪᴠᴇ ɴᴏᴡ.!!"
+      "value": "Hi By the way I'm Joshuamambo1 !"
     },
     
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": true,
-      "value": "."
+      "value": "!"
     },
     
     "MODE": {
@@ -40,7 +40,7 @@
     "AUTO_VOICE": {
       "description": "Make it true if you want bot auto voice.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_REPLY": {
@@ -58,7 +58,7 @@
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot auto auto_read_status.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "ANTI_LINK": {
@@ -95,24 +95,24 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✯sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ✯"
+      "value": "Joshuamambo1jmz"
     }, 
 
     "HEART_REACT": {
       "description": "Make it true if you want bot only heart 💚 emjois reaction .",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY MRSHABAN432"
+      "value": "POWERED BY JOSHUAMAMBO1"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
@@ -128,12 +128,12 @@
     "ALWAYS_ONLINE": {
       "description": "make it true if you want to show always online.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
     "FAKE_TYPING": {
       "description": "make it true if you want to show fake typing.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
     "CURRENT_STATUS": {
       "description": "make it true if you to show your reail last seen.",
